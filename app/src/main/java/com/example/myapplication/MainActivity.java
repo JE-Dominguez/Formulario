@@ -9,8 +9,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
 import android.media.ExifInterface;
-
-
 //nsjanfkjsnf
 import android.net.Uri;
 import android.os.Bundle;
