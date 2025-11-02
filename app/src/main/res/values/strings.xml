@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="primer_numero">Primer Numero</string>
+    <string name="segundo_numero">Segundo Numero</string>
+    <string name="division">Division</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="resta">Resta</string>
+    <string name="suma">Suma</string>
+    <string name="resultado">Resultado</string>
+    <string name="resultado_es">Resultado es:</string>
+    <string name="funciones_matematicas">Funciones Matematicas</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="a_adiendo_persona">Añadiendo Persona</string>
+    <string name="fotografia">Fotografia</string>
+    <string name="foto">Foto</string>
+    <string name="nombres">Nombres</string>
+    <string name="correo">Correo</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+</resources>
